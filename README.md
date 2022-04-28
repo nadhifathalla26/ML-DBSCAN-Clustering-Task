@@ -1,2 +1,2 @@
 # ML-DBSCAN-Clustering-Task
-Repository Untuk Tugas Pembelajaran Mesin - Implementasi Clustering Menggunakan Pendekatan DBSCAN
+In this notebook, I am implementing a DBSCAN algorithm to clustering the dataset that have two classes. I am using DBSCAN library from scikit-learn and searching the K value or centroid point using NearestNeighbors library also from skicit-learn. Also for the more definitive proof, I am using some KneeLocator library from kneed to get the valid centroid value. The result from this research is I get 5 cluster from this data which can be seen in this notebook.
